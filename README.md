@@ -5,8 +5,8 @@
   <br>
 </p>
 
-Me dicen Ale o **Lolo** (sí, como la guitarra de Lolo 🎸). Me considero una persona **melómana**,<br>
-¡puedo escuchar de todo! Así que si tienes una **playlist recomendada**, ¡será más que bienvenida!<br>
+Me dicen **Ale** o **Lolo** (sí, como la guitarra de Lolo 🎸). Me considero una persona **melómana**,<br>
+¡puedo escuchar de todo! Así que si tenes una **playlist recomendada**, ¡será más que bienvenida!<br>
 
 Legajo: 1690504<br>
 Tengo 24 años y actualmente estoy trabajando como data engineer/architect en una startup.<br>
@@ -17,4 +17,4 @@ No tengo idea de cómo llegué hasta ahí, pero bueno...
   <br>
 </p>
 
-Espero <span style="background-color: yellow; color: black; font-weight: bold;">**promocionar la materia**</span>
+Espero **promocionar la materia**
