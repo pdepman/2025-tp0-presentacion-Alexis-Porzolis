@@ -21,7 +21,7 @@ Espero **promocionar la materia**
 
 Dejo algunos link de mis playlist y otra dealer de playlist
 
-Playlist mias:
+Playlist mias:<br>
 Rock en español: <br>
 https://open.spotify.com/playlist/2RmQFOOIiZaQLvSMxw0tG9?si=19a0d716a8d34f84 <br>
 Rock en ingles: <br>
