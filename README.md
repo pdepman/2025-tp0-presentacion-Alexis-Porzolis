@@ -28,7 +28,9 @@ Rock en ingles: <br>
 https://open.spotify.com/playlist/1Bm2Gvby5Z8wSjx79MiT87?si=8de2d88c52e04f8d <br>
 Mood gimnasio: <br>
 https://open.spotify.com/playlist/4gEwiEorp088r1A2EGYIPi?si=892250e8616b4cea <br>
-Playlist de mi dealer: <br>
+
+
+*Playlist de mi dealer*: <br>
 
 <p align="center">
   <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/dealerspotify.jpg?raw=true" width="500" height="375"/>
