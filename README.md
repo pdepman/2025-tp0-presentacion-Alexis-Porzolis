@@ -19,23 +19,24 @@ No tengo idea de cómo llegué hasta ahí, pero bueno...
 
 Espero **promocionar la materia**
 
-Dejo algunos link de mis playlist y otra dealer de playlist 
+Dejo algunos link de mis playlist y otra dealer de playlist
 
-Playlist mias: 
-Rock en español:
-https://open.spotify.com/playlist/2RmQFOOIiZaQLvSMxw0tG9?si=19a0d716a8d34f84
-Rock en ingles:
-https://open.spotify.com/playlist/1Bm2Gvby5Z8wSjx79MiT87?si=8de2d88c52e04f8d
-Mood gimnasio: 
-https://open.spotify.com/playlist/4gEwiEorp088r1A2EGYIPi?si=892250e8616b4cea
-Playlist de mi dealer:
+Playlist mias:
+Rock en español: <br>
+https://open.spotify.com/playlist/2RmQFOOIiZaQLvSMxw0tG9?si=19a0d716a8d34f84 <br>
+Rock en ingles: <br>
+https://open.spotify.com/playlist/1Bm2Gvby5Z8wSjx79MiT87?si=8de2d88c52e04f8d <br>
+Mood gimnasio: <br>
+https://open.spotify.com/playlist/4gEwiEorp088r1A2EGYIPi?si=892250e8616b4cea <br>
+Playlist de mi dealer: <br>
+
 <p align="center">
   <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/dealerspotify.jpg?raw=true" width="500" height="375"/>
   <br>
 </p>
 
-
 Top:
+
 1. https://open.spotify.com/playlist/6HgcvuYVBJdxYu4NYutFJj?si=2fd9690ccddc407c
 
 2. https://open.spotify.com/playlist/0IcNxwly5zW4LSMRKbtkqC?si=403c21878b4b4f22
