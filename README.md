@@ -1,7 +1,7 @@
 # ¡Hola! Soy **Alexis Eduardo Porzolis Requena** 
 
 <p align="center">
-  <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/face_photo.png?raw=true" alt="Foto de Perfil" width="200" height="200"/>
+  <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/face_photo.png?raw=true" width="300" height="300"/>
   <br>
   <i>Foto de Perfil</i>
 </p>
@@ -14,7 +14,7 @@ Tengo 24 años  y actualmente estoy trabajando como Data Engineer/Arquitech** en
 No tengo idea de cómo llegué hasta ahí, pero bueno... 
 
 <p align="center">
-  <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/meme_theoffice.jpg?raw=true" alt="Meme divertido" width="400" height="300"/>
+  <img src="https://github.com/pdepman/2025-tp0-presentacion-Alexis-Porzolis/blob/master/assets/meme_theoffice.jpg?raw=true" width="500" height="375"/>
   <br>
   <i>Meme divertido</i>
 </p>
